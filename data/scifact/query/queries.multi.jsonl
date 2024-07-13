@@ -1,0 +1,614 @@
+{"id": "scifact-10#0", "title": "4-PBA treatment decreases endoplasmic reticulum stress."}
+{"id": "scifact-10#1", "title": "The decrease in endoplasmic reticulum stress is in response to general endoplasmic reticulum stress markers."}
+{"id": "scifact-11#0", "title": "4-PBA treatment raises endoplasmic reticulum stress."}
+{"id": "scifact-11#1", "title": "The raise in endoplasmic reticulum stress is in response to general endoplasmic reticulum stress markers."}
+{"id": "scifact-12#0", "title": "40mg/day dosage of folic acid does not affect chronic kidney disease progression."}
+{"id": "scifact-12#1", "title": "2mg/day dosage of vitamin B12 does not affect chronic kidney disease progression."}
+{"id": "scifact-21#0", "title": "70% of burn patients are admitted for hospitalization and further treatment."}
+{"id": "scifact-21#1", "title": "Burn patients appear at hospital emergency wards or outpatient clinics for treatment."}
+{"id": "scifact-27#0", "title": "A 100g dose of chloroquine chemoprophylactic regimen results in retinal toxicity."}
+{"id": "scifact-27#1", "title": "Retinal toxicity occurs after 5-6 years of weekly intake."}
+{"id": "scifact-28#0", "title": "A T helper 2 cell environment impedes disease development in patients with systemic lupus erythematosus (SLE)."}
+{"id": "scifact-28#1", "title": "Systemic lupus erythematosus is also known as SLE."}
+{"id": "scifact-40#0", "title": "A diminished ovarian reserve is a very strong indicator of infertility."}
+{"id": "scifact-40#1", "title": "A diminished ovarian reserve can be a strong indicator even in an a priori non-infertile population."}
+{"id": "scifact-46#0", "title": "A single nucleotide variant is the gene DGKK."}
+{"id": "scifact-46#1", "title": "The gene DGKK is strongly associated with increased risk of hypospadias."}
+{"id": "scifact-47#0", "title": "A strong bias in the phage genome locations where the spacers were derived has been observed in many CRISPR subtypes."}
+{"id": "scifact-47#1", "title": "CRISPR subtypes confer immunity to phage."}
+{"id": "scifact-66#0", "title": "AZT is given with ribavirin."}
+{"id": "scifact-66#1", "title": "AZT increases anemia."}
+{"id": "scifact-67#0", "title": "Activated Cdk5 phosphorylates the ATM protein."}
+{"id": "scifact-67#1", "title": "The ATM protein is phosphorylated in response to DNA damage."}
+{"id": "scifact-71#0", "title": "Activation of the Rac1 homolog CED-10 kills viable cells in SRGP-1 mutant Caenorhabditis elegans."}
+{"id": "scifact-71#1", "title": "CED-10 is a Rac1 homolog."}
+{"id": "scifact-74#0", "title": "Active H. pylori urease has a polymeric structure."}
+{"id": "scifact-74#1", "title": "The polymeric structure of H. pylori urease consists of five distinct subunits."}
+{"id": "scifact-81#0", "title": "Acute ablation of Snail occurs in the embryonic cortex."}
+{"id": "scifact-81#1", "title": "Acute ablation of Snail affects the proliferation and number of embryonic cortical precursors."}
+{"id": "scifact-109#0", "title": "An M2-like phenotype exists in brown adipose tissue macrophages."}
+{"id": "scifact-109#1", "title": "The M2-like phenotype is quickly induced by cold exposure."}
+{"id": "scifact-111#0", "title": "Androgenetic haploid mouse embryonic stem cells can be derived."}
+{"id": "scifact-111#1", "title": "Androgenetic haploid mouse embryonic stem cells can be genetically manipulated in vitro."}
+{"id": "scifact-121#0", "title": "Antimicrobial agents are less effective."}
+{"id": "scifact-121#1", "title": "The pressure of antimicrobial usage causes the decrease in effectiveness."}
+{"id": "scifact-123#0", "title": "Antiretroviral therapy increases rates of tuberculosis."}
+{"id": "scifact-123#1", "title": "Antiretroviral therapy affects a broad range of CD4 strata."}
+{"id": "scifact-138#0", "title": "Asymptomatic visual impairment screening is conducted in elderly populations."}
+{"id": "scifact-138#1", "title": "The screening leads to improved vision."}
+{"id": "scifact-149#0", "title": "Autophagy deficiency occurs in the liver."}
+{"id": "scifact-149#1", "title": "Autophagy deficiency increases vulnerability to insulin resistance."}
+{"id": "scifact-152#0", "title": "B cells go through plasmablast differentiation."}
+{"id": "scifact-152#1", "title": "B cells produce antibody by continuous expression of EBI2."}
+{"id": "scifact-153#0", "title": "B3-Galectin decreases cell resistance to tyrosine kinase inhibitors (TKIs)."}
+{"id": "scifact-153#1", "title": "B3-Galectin engages the alternate KRAS-RalB signaling complex downstream of EGFR."}
+{"id": "scifact-154#0", "title": "B3-Galectin increases cell resistance to tyrosine kinase inhibitors (TKIs)."}
+{"id": "scifact-154#1", "title": "B3-Galectin engages the alternate KRAS-RalB signaling complex downstream of EGFR."}
+{"id": "scifact-177#0", "title": "Binding of p53 to enhancer regions regulates the activity of p53 transcription."}
+{"id": "scifact-177#1", "title": "Binding of p53 to enhancer regions regulates cell cycle arrest."}
+{"id": "scifact-177#2", "title": "The regulation of p53 transcription and cell cycle arrest is done through the production of p53-dependent eRNAs."}
+{"id": "scifact-196#0", "title": "C2 works synergistically with A-769662."}
+{"id": "scifact-196#1", "title": "A-769662 activates dephosphorylated AMPK."}
+{"id": "scifact-200#0", "title": "CD28 initiates tonic signaling in conventional T cells."}
+{"id": "scifact-200#1", "title": "Tonic signaling causes an exhaustion phenotype."}
+{"id": "scifact-200#2", "title": "Tonic signaling causes limited efficiency."}
+{"id": "scifact-203#0", "title": "CD44v6 is not associated with constitutive and reprogrammed cancer stem cells."}
+{"id": "scifact-203#1", "title": "Constitutive and reprogrammed cancer stem cells drive cancer metastasis."}
+{"id": "scifact-223#0", "title": "Cancer cells can stimulate the accumulation of intra-tumoural myeloid-derived suppressor cells."}
+{"id": "scifact-223#1", "title": "Cancer cells promote granulocyte colony stimulating factor production."}
+{"id": "scifact-225#0", "title": "Cancer-associated fibroblasts (CAFs) have no known interaction with cancer cells."}
+{"id": "scifact-225#1", "title": "Cancer cells are involved in the formation and activation of CAFs."}
+{"id": "scifact-226#0", "title": "Cancer-associated fibroblasts (CAFs) interact with cancer cells."}
+{"id": "scifact-226#1", "title": "The interaction between CAFs and cancer cells mediates formation and activation of CAFs."}
+{"id": "scifact-227#0", "title": "Cancers initially benefit from epidermal growth factor receptor targeted therapies."}
+{"id": "scifact-227#1", "title": "Cancers later become refractory through several mechanisms."}
+{"id": "scifact-244#0", "title": "Certain immunomodulator-human dialyzable leukocyte extract (hDLE) peptides are recognized by toll-like receptors (TLRs)."}
+{"id": "scifact-244#1", "title": "TLRs are found on macrophages and dendritic cells."}
+{"id": "scifact-253#0", "title": "Chinese individuals have TT homozygosity in the MTHFR gene."}
+{"id": "scifact-253#1", "title": "TT homozygosity in the MTHFR gene is less vulnerable to strokes."}
+{"id": "scifact-253#2", "title": "Stroke is caused by low levels of folate intake."}
+{"id": "scifact-254#0", "title": "Chinese individuals have TT homozygosity in the MTHFR gene."}
+{"id": "scifact-254#1", "title": "TT homozygosity in the MTHFR gene makes individuals more vulnerable to strokes."}
+{"id": "scifact-254#2", "title": "Stroke is caused by low levels of folate intake."}
+{"id": "scifact-255#0", "title": "Chlamydia trachomatis is most prevalent in the UK."}
+{"id": "scifact-255#1", "title": "Chlamydia trachomatis is most prevalent among individuals in their 50s and 60s."}
+{"id": "scifact-256#0", "title": "Chlamydia trachomatis is most prevalent in the UK."}
+{"id": "scifact-256#1", "title": "Chlamydia trachomatis is most prevalent among sexually-experienced individuals aged 16 to 24."}
+{"id": "scifact-258#0", "title": "Cholesterol loading induces KLF4 expression in VSMCs."}
+{"id": "scifact-258#1", "title": "KLF4 expression results in the expression of pro-inflammatory cytokines."}
+{"id": "scifact-262#0", "title": "Cis-acting lncRNAs control the expression of genes."}
+{"id": "scifact-262#1", "title": "Genes are positioned in the vicinity of their transcription sites."}
+{"id": "scifact-263#0", "title": "Citrullinated proteins are externalized in neutrophil extracellular traps."}
+{"id": "scifact-263#1", "title": "Citrullinated proteins act indirectly to disrupt the inflammatory cycle."}
+{"id": "scifact-264#0", "title": "Citrullinated proteins are externalized in neutrophil extracellular traps."}
+{"id": "scifact-264#1", "title": "Citrullinated proteins act indirectly to perpetuate the inflammatory cycle."}
+{"id": "scifact-264#2", "title": "The inflammatory cycle is perpetuated via induction of autoantibodies."}
+{"id": "scifact-272#0", "title": "Combination nicotine replacement therapies with varenicline or bupropion are more effective after 12 weeks of reatment."}
+{"id": "scifact-272#1", "title": "Varenicline monotherapy is less effective after 12 weeks of reatment."}
+{"id": "scifact-277#0", "title": "Commelina yellow mottle virus has three typical badnavirus ORFs."}
+{"id": "scifact-277#1", "title": "The badnavirus ORFs in Commelina yellow mottle virus are capable of encoding proteins 23, 15, and 216 kD."}
+{"id": "scifact-280#0", "title": "Comparative transcriptome analysis identified new platelet proteins."}
+{"id": "scifact-280#1", "title": "The new platelet proteins had structural features."}
+{"id": "scifact-280#2", "title": "The structural features suggested a role in platelet function."}
+{"id": "scifact-281#0", "title": "Concentrations of SNV and CNV are present in stem-cell regulatory elements."}
+{"id": "scifact-281#1", "title": "Concentrations of SNV and CNV are present in binding sites of transcription factors in iPSC-lines."}
+{"id": "scifact-281#2", "title": "These concentrations are distinct from their founding cells."}
+{"id": "scifact-290#0", "title": "Cost effectiveness evaluations are based on cRCT data."}
+{"id": "scifact-290#1", "title": "cRCT data accurately reflect prices for patients in actual clinical practice."}
+{"id": "scifact-331#0", "title": "Deltex interacts with eIF3."}
+{"id": "scifact-331#1", "title": "There is no known interaction between Deltex and elF3."}
+{"id": "scifact-332#0", "title": "Depletion of T-helper 17 cells occurs during simian immunodeficiency virus (SIV) infection."}
+{"id": "scifact-332#1", "title": "Depletion of Th17 cells decreases dissemination of Salmonella Typhimurium from the gut."}
+{"id": "scifact-333#0", "title": "Depletion of T-helper 17 cells occurs during simian immunodeficiency virus (SIV) infection."}
+{"id": "scifact-333#1", "title": "Depletion of Th17 cells increases dissemination of Salmonella Typhimurium from the gut."}
+{"id": "scifact-340#0", "title": "Diabetes remission occurs less in people treated with conventional therapy."}
+{"id": "scifact-340#1", "title": "Diabetes remission occurs more in people treated with laparoscopic adjustable gastric banding surgery."}
+{"id": "scifact-341#0", "title": "Diabetes remission occurs more in people treated with conventional therapy."}
+{"id": "scifact-341#1", "title": "Diabetes remission occurs less in people treated with laparoscopic adjustable gastric banding surgery."}
+{"id": "scifact-345#0", "title": "Differentiated E2f-1, -2, -3 TKO cells are present in the intestine."}
+{"id": "scifact-345#1", "title": "Differentiated E2f-1, -2, -3 TKO cells do not exhibit apoptosis."}
+{"id": "scifact-357#0", "title": "During non-homologous end joining, the ligation step is not as tolerant of disrepairs and other distortions."}
+{"id": "scifact-357#1", "title": "The ligation step is not as tolerant of disrepairs and other distortions when joining 3' of strand breaks."}
+{"id": "scifact-357#2", "title": "The ligation step is not as tolerant of disrepairs and other distortions when joining 5' of strand breaks."}
+{"id": "scifact-358#0", "title": "During non-homologous end joining, the ligation step is not as tolerant of disrepairs and other distortions."}
+{"id": "scifact-358#1", "title": "The ligation step is not as tolerant of disrepairs and other distortions when joining 5' of strand breaks."}
+{"id": "scifact-358#2", "title": "The ligation step is not as tolerant of disrepairs and other distortions when joining 3' strand breaks."}
+{"id": "scifact-361#0", "title": "During the primary early antibody response, activated B cells migrate toward the inner-and outer follicular areas."}
+{"id": "scifact-361#1", "title": "Oxysterol accumulation is generated by stromal cells in the inner-and outer follicular areas."}
+{"id": "scifact-363#0", "title": "EG7 tumors can be killed by systemic oxaliplatin primed CD8+ T cells."}
+{"id": "scifact-363#1", "title": "CD8+ T cells are from the tumor-draining lymph node cells."}
+{"id": "scifact-365#0", "title": "ER-localized phosphatase Sac1 processes PI4P."}
+{"id": "scifact-365#1", "title": "Sac1 coordinates with OSBP."}
+{"id": "scifact-365#2", "title": "Sac1 coordinates with the endosome-localized protein sorting nexin 2."}
+{"id": "scifact-366#0", "title": "ERAP1 SNPs are epistatic to HLA alleles."}
+{"id": "scifact-366#1", "title": "ERAP1 SNPs are associated with ankylosing spondylitis."}
+{"id": "scifact-372#0", "title": "Eilat virus is produced in mosquitos."}
+{"id": "scifact-372#1", "title": "Eilat virus elicits rapid and long-lasting neutralizing antibodies in nonhuman primates."}
+{"id": "scifact-382#0", "title": "Environmentally-induced senescence is mimicked in disease modeling."}
+{"id": "scifact-382#1", "title": "Specific molecules are added to the culture system to mimic environmentally-induced senescence."}
+{"id": "scifact-401#0", "title": "Expression of MSX2 is induced 3 hours after the addition of BMP4."}
+{"id": "scifact-401#1", "title": "BMP4 addition is earlier than T and CDX2."}
+{"id": "scifact-413#0", "title": "Female carriers of the Apolipoprotein E4 allele have decreased risk for dementia."}
+{"id": "scifact-413#1", "title": "The Apolipoprotein E4 allele is also known as APOE4."}
+{"id": "scifact-414#0", "title": "Female carriers of the Apolipoprotein E4 allele have an increased risk for Alzheimer's disease."}
+{"id": "scifact-414#1", "title": "The Apolipoprotein E4 allele is also known as APOE4."}
+{"id": "scifact-416#0", "title": "Female carriers of the Apolipoprotein E4 allele have longer lifetime exposure to estrogen."}
+{"id": "scifact-416#1", "title": "The longer lifetime exposure to estrogen is due to an increased reproductive period."}
+{"id": "scifact-417#0", "title": "Female carriers of the Apolipoprotein E4 allele have shorter lifetime exposure to estrogen."}
+{"id": "scifact-417#1", "title": "The shorter lifetime exposure to estrogen is due to a decreased reproductive period."}
+{"id": "scifact-418#0", "title": "Fibroblast Growth Factor is a ligand."}
+{"id": "scifact-418#1", "title": "Fibroblast Growth Factor signals through receptor tyrosine kinases."}
+{"id": "scifact-420#0", "title": "Fibroblast growth factor 21 protects against atherosclerosis."}
+{"id": "scifact-420#1", "title": "Fibroblast growth factor 21 modulates adiponectin and SREBP2 levels."}
+{"id": "scifact-429#0", "title": "Formation of N-terminal pyroglutamate by glutamine cyclase (GC) competes with NTAQ1 for Nt-Gln substrates."}
+{"id": "scifact-429#1", "title": "Glutamin cyclase (GC) is a type of glutamine cyclase."}
+{"id": "scifact-434#0", "title": "Foxp3 enables the expression of transcriptional regulators."}
+{"id": "scifact-434#1", "title": "Transcriptional regulators are implicated in memory T cell development."}
+{"id": "scifact-435#0", "title": "Foxp3 represses the expression of transcriptional regulators."}
+{"id": "scifact-435#1", "title": "Transcriptional regulators are implicated in memory T cell development."}
+{"id": "scifact-453#0", "title": "General exercise therapy is more effective than rotator cuff exercises."}
+{"id": "scifact-453#1", "title": "General exercise therapy reduces pain and improves function of the shoulder."}
+{"id": "scifact-454#0", "title": "General exercise therapy is more effective than scapular stabilizer exercises."}
+{"id": "scifact-454#1", "title": "General exercise therapy reduces pain and improves function of the shoulder."}
+{"id": "scifact-466#0", "title": "Genomic sequences involved in alternative splicing are abundant in the 'progerinonly'' allele of Lmna knock-in models."}
+{"id": "scifact-466#1", "title": "The abundance of genomic sequences in the 'progerinonly'' allele of Lmna knock-in models is responsible for Hutchinson-Gilford progeria syndrome (HGPS)."}
+{"id": "scifact-470#0", "title": "Glioblastoma multiforme is characterized by extensive invasion."}
+{"id": "scifact-470#1", "title": "Glioblastoma multiforme is characterized by rapid growth."}
+{"id": "scifact-470#2", "title": "Glioblastoma multiforme is characterized by necrosis."}
+{"id": "scifact-470#3", "title": "Glioblastoma multiforme is characterized by angiogenesis."}
+{"id": "scifact-472#0", "title": "Glucose restriction to 0.05% reduces RLS in S. cerevisiae."}
+{"id": "scifact-472#1", "title": "RLS stands for replicative life span."}
+{"id": "scifact-472#2", "title": "RLS reduction is 20-40% in S. cerevisiae."}
+{"id": "scifact-482#0", "title": "Guanine nucleotide exchange factors mediate RhoA activation."}
+{"id": "scifact-482#1", "title": "RhoA activation is in response to tensional forces on fibronectin-binding integrins."}
+{"id": "scifact-483#0", "title": "H.pylori-mediated gastric cancer occurs."}
+{"id": "scifact-483#1", "title": "The accumulation of mutations in host epithelial cells causes H.pylori-mediated gastric cancer."}
+{"id": "scifact-484#0", "title": "H4 G94P proteins induce chromatin assembly."}
+{"id": "scifact-484#1", "title": "Chromatin assembly increases free histones."}
+{"id": "scifact-485#0", "title": "H4 G94P proteins induce degradation of free histones."}
+{"id": "scifact-485#1", "title": "The degradation of free histones is via Rad53-dependent mechanisms."}
+{"id": "scifact-486#0", "title": "H4 G94P proteins inhibit chromatin assembly."}
+{"id": "scifact-486#1", "title": "Inhibiting chromatin assembly decreases free histones."}
+{"id": "scifact-487#0", "title": "H4 G94P proteins suppress degradation of free histones."}
+{"id": "scifact-487#1", "title": "The suppression of free histone degradation is via Rad53-dependent mechanisms."}
+{"id": "scifact-489#0", "title": "HIV trans-activator protein (TAT) effectively transports large and small molecules across cellular membranes."}
+{"id": "scifact-489#1", "title": "HIV trans-activator protein (TAT) transports larger populations of neurons."}
+{"id": "scifact-493#0", "title": "HOXB4 is a highly expressed component of cellular secretome."}
+{"id": "scifact-493#1", "title": "HOXB4 is found in fetal liver cell populations."}
+{"id": "scifact-505#0", "title": "Helicobacter pylori induces aberrant NF-kB-dependent expression of activation-induced cytidine deaminase."}
+{"id": "scifact-505#1", "title": "The aberrant NF-kB-dependent expression contributes to the mutagenesis of host DNA."}
+{"id": "scifact-506#0", "title": "Helminths interfere with immune system control of coinfections by microbial pathogens."}
+{"id": "scifact-506#1", "title": "Microbial pathogens include helminths."}
+{"id": "scifact-523#0", "title": "Higher plasma levels of I-carnitine are negatively correlated with cardiovascular events in humans."}
+{"id": "scifact-523#1", "title": "I-carnitine levels are associated with trimethylamine N-oxide."}
+{"id": "scifact-524#0", "title": "Higher plasma levels of I-carnitine are positively correlated with cardiovascular events in humans."}
+{"id": "scifact-524#1", "title": "I-carnitine levels are associated with trimethylamine N-oxide."}
+{"id": "scifact-526#0", "title": "Homozygous deletion of murine Sbds gene occurs from osterix-expressing mesenchymal stem and progenitor cells (MPCs)."}
+{"id": "scifact-526#1", "title": "Homozygous deletion of murine Sbds gene induces oxidative stress."}
+{"id": "scifact-530#0", "title": "Human embryonic stem cells give rise to cell types from the outer embryonic germ layer."}
+{"id": "scifact-530#1", "title": "Human embryonic stem cells do not give rise to cell types from the other two layers."}
+{"id": "scifact-531#0", "title": "Human embryonic stem cells have the capacity to give rise to differentiated progeny."}
+{"id": "scifact-531#1", "title": "Differentiated progeny represent all three embryonic germ layers."}
+{"id": "scifact-542#0", "title": "IFI16 impedes STING phosphorylation and translocation."}
+{"id": "scifact-542#1", "title": "IFI16 results in reduced activation of STING."}
+{"id": "scifact-545#0", "title": "IFIT1 speeds viral replication."}
+{"id": "scifact-545#1", "title": "IFIT1 allows for the proliferation of mis-capped viral RNAs."}
+{"id": "scifact-553#0", "title": "IgA plasma cells are specific for transglutaminase 2."}
+{"id": "scifact-553#1", "title": "IgA plasma cells are scarce in the duodenal mucosa of celiac disease patients when the disease is active."}
+{"id": "scifact-572#0", "title": "In chronic viral infections or tumors, peptides that selectively inhibit PTPRS can be utilized."}
+{"id": "scifact-572#1", "title": "Peptides that selectively inhibit PTPRS can be utilized to boost insufficient activity of pDCs."}
+{"id": "scifact-584#0", "title": "In rhesus macaques, daily subcutaneous injections of tenofovir protects against rectally transmitted simian-human immunodeficiency virus."}
+{"id": "scifact-584#1", "title": "Tenofovir is a drug."}
+{"id": "scifact-588#0", "title": "In transgenic mice, green florescent protein is harbored under the control of the Sox2 promoter."}
+{"id": "scifact-588#1", "title": "More than 50 percent of the cells with green florescent colocalize with cell proliferation markers."}
+{"id": "scifact-590#0", "title": "In young and middle-aged adults, current or remote uses of ADHD medications increase the risk of serious cardiovascular events."}
+{"id": "scifact-590#1", "title": "The risk of serious cardiovascular events is increased in young and middle-aged adults."}
+{"id": "scifact-614#0", "title": "Increased microtubule acetylation repairs interference of axonal transport."}
+{"id": "scifact-614#1", "title": "Interference of axonal transport is caused by LRRK2 Roc-COR domain mutations."}
+{"id": "scifact-615#0", "title": "Increased microtubule acetylation worsens interference of axonal transport."}
+{"id": "scifact-615#1", "title": "Axonal transport interference is caused by LRRK2 Roc-COR domain mutations."}
+{"id": "scifact-617#0", "title": "Increased mobility of retrotransposons is associated with mutation."}
+{"id": "scifact-617#1", "title": "Increased mobility of retrotransposons is associated with higher tumorigenesis rates."}
+{"id": "scifact-620#0", "title": "Increased vessel density improves the efficacy of chemotherapy treatments."}
+{"id": "scifact-620#1", "title": "Reduction in fibrosis improves the efficacy of chemotherapy treatments."}
+{"id": "scifact-621#0", "title": "Individuals with Alzheimers participate in six months of physical activity."}
+{"id": "scifact-621#1", "title": "Physical activity improves cognitive function for up to 18 months for individuals with Alzheimers."}
+{"id": "scifact-635#0", "title": "Inhibiting glucose-6-phospate dehydrogenase improves lipogenesis."}
+{"id": "scifact-635#1", "title": "Glucose-6-phospate dehydrogenase deactivates LKB1-AMPK signaling."}
+{"id": "scifact-645#0", "title": "Intake of folic acid increases levels of homocysteine."}
+{"id": "scifact-645#1", "title": "Intake of vitamin B6 increases levels of homocysteine."}
+{"id": "scifact-646#0", "title": "Intake of folic acid and vitamin B6 reduces levels of homocysteine."}
+{"id": "scifact-646#1", "title": "Folic acid is also known as folic acid."}
+{"id": "scifact-646#2", "title": "Vitamin B6 is also known as vitamin B6."}
+{"id": "scifact-654#0", "title": "Intra-cerebroventricular infusion of amyloid- oligomers increases expression of fibronectin type-III domain-containing protein 5 mRNA."}
+{"id": "scifact-654#1", "title": "The increase in expression occurs in mice hippocampi."}
+{"id": "scifact-655#0", "title": "Intra-cerebroventricular infusion of amyloid- oligomers reduces expression of fibronectin type-III domain-containing protein 5 mRNA."}
+{"id": "scifact-655#1", "title": "The reduction of expression occurs in mice hippocampi."}
+{"id": "scifact-657#0", "title": "Intramembrane cleavage by signal peptide peptidase aids in the degradation of proteins with a complex membrane orientation."}
+{"id": "scifact-657#1", "title": "Signal peptide peptidase is a protein degradation enzyme."}
+{"id": "scifact-661#0", "title": "JMJD6 catalyzes the hydroxylation of C-terminal lysine."}
+{"id": "scifact-661#1", "title": "JMJD6 supresses transcriptional activity."}
+{"id": "scifact-665#0", "title": "KRT17 modulates the expression of the transcriptional regulator AIRE."}
+{"id": "scifact-665#1", "title": "KRT17 is involved in diseased epithelia."}
+{"id": "scifact-666#0", "title": "Kir7.1 modulates channel activity by the G protein-coupled melanocortin-4 receptor (MC4R)."}
+{"id": "scifact-666#1", "title": "The G protein-coupled melanocortin-4 receptor (MC4R) is located in the paraventricular nucleus of the hypothalamus."}
+{"id": "scifact-672#0", "title": "L3MBTL2 binds to H2AK119Ub marked chromatin."}
+{"id": "scifact-672#1", "title": "L3MBTL2 forms a PRC1 complex with H2AK119Ub marked chromatin."}
+{"id": "scifact-713#0", "title": "Low expression of miR7a does not repress target genes."}
+{"id": "scifact-713#1", "title": "Low expression of miR7a does not exert a biological function in ovaries."}
+{"id": "scifact-714#0", "title": "Low expression of miR7a does not repress target genes."}
+{"id": "scifact-714#1", "title": "Low expression of miR7a does not exert a biological function in testis."}
+{"id": "scifact-724#0", "title": "Ly49Q directs the organization of neutrophil polarization."}
+{"id": "scifact-724#1", "title": "Ly49Q regulates membrane raft functions."}
+{"id": "scifact-730#0", "title": "JIB 04 is a lysine histone demethylase inhibitor."}
+{"id": "scifact-730#1", "title": "JIB 04 is inactive against KDM5A."}
+{"id": "scifact-736#0", "title": "MFGE8 regulates fat absorption."}
+{"id": "scifact-736#1", "title": "MFGE8 binding to av-Beta3 and av-Beta5 integrins."}
+{"id": "scifact-740#0", "title": "MUC1-C activates the NF-B p65 signaling pathway."}
+{"id": "scifact-740#1", "title": "MUC1-C interacts with IB kinase \u00df."}
+{"id": "scifact-749#0", "title": "Major antigen-induced signals from the T cell receptor are required for T cell activation."}
+{"id": "scifact-749#1", "title": "Secondary signals from costimulatory receptors are required for T cell activation."}
+{"id": "scifact-751#0", "title": "Major vault protein (MVP) leads to more aggressive tumors."}
+{"id": "scifact-751#1", "title": "MVP regulates the sorting of tumor suppressive miR-193a into extracellular vesicles (EVs)."}
+{"id": "scifact-755#0", "title": "Many cytokines are produced by cancer cells."}
+{"id": "scifact-755#1", "title": "Cytokines contribute to carcinogenesis."}
+{"id": "scifact-757#0", "title": "Many transmembrane receptors transmit signals by long-range conformational changes."}
+{"id": "scifact-757#1", "title": "The conformational changes occur in the association of alpha-helices across the plasma membrane."}
+{"id": "scifact-771#0", "title": "Metastasic colorectal cancer was treated with a single agent fluoropyrimidines."}
+{"id": "scifact-771#1", "title": "Fluoropyrimidines resulted in similar efficacy and better quality of life when compared with oxaliplatin-based chemotherapy in elderly patients."}
+{"id": "scifact-772#0", "title": "Mice are incapable of producing neutralizing antibodies."}
+{"id": "scifact-772#1", "title": "Neutralizing antibodies are produced in response to the Chikungunya virus (CHIKV)."}
+{"id": "scifact-772#2", "title": "The Chikungunya virus is produced in mosquitos."}
+{"id": "scifact-779#0", "title": "Mice lacking Sirt1 in Sf1-expressing neurons have increased susceptibility to diet-induced obesity."}
+{"id": "scifact-779#1", "title": "Mice lacking Sirt1 in Sf1-expressing neurons have increased susceptibility to insulin resistance."}
+{"id": "scifact-782#0", "title": "Mice without IFN- or its receptor are highly susceptible to EAM."}
+{"id": "scifact-782#1", "title": "EAM is induced with -MyHC/CFA."}
+{"id": "scifact-789#0", "title": "Microglia are an innate immune cell type."}
+{"id": "scifact-789#1", "title": "Microglia are part of the central nervous system."}
+{"id": "scifact-790#0", "title": "Microglia are an innate immune cell type."}
+{"id": "scifact-790#1", "title": "Microglia are part of the peripheral nervous system."}
+{"id": "scifact-813#0", "title": "Mutations in G-Beta protein GNB1 are present in many cancers."}
+{"id": "scifact-813#1", "title": "Mutations in G-Beta protein GNB1 result in loss of interaction with G-alpha subunits."}
+{"id": "scifact-813#2", "title": "Mutations in G-Beta protein GNB1 result in concomitant activation of AKT pathway."}
+{"id": "scifact-826#0", "title": "NAC destabilizes NO."}
+{"id": "scifact-826#1", "title": "NAC increases the effect of contrast agents on renal functions."}
+{"id": "scifact-846#0", "title": "Neutrophils produce IL-1."}
+{"id": "scifact-846#1", "title": "IL-1 is produced in response to large particles."}
+{"id": "scifact-853#0", "title": "Nonhuman primates are incapable of producing neutralizing antibodies."}
+{"id": "scifact-853#1", "title": "Nonhuman primates cannot produce neutralizing antibodies in response to the Eilat virus."}
+{"id": "scifact-853#2", "title": "The Eilat virus is produced in mosquitos."}
+{"id": "scifact-866#0", "title": "Nuclear transfer from adult human fibroblasts to human oocytes can give rise to blastocysts."}
+{"id": "scifact-866#1", "title": "Blastocysts contain expandable pluripotent cells."}
+{"id": "scifact-877#0", "title": "Occipital activation levels are associated with auditory spatial performance."}
+{"id": "scifact-877#1", "title": "Auditory spatial performance occurs in parietal regions of the brain."}
+{"id": "scifact-890#0", "title": "Origin gross domestic product is negatively related to dengue virus diffusion in air traffic shipments."}
+{"id": "scifact-890#1", "title": "Dengue virus is also known as dengue virus-1)."}
+{"id": "scifact-891#0", "title": "Origin gross domestic product is positively related to dengue virus diffusion in air traffic shipments."}
+{"id": "scifact-891#1", "title": "Dengue virus is also known as dengue virus-1)."}
+{"id": "scifact-894#0", "title": "Osteoparthritis is characterized by degeneration of articular cartilage."}
+{"id": "scifact-894#1", "title": "Osteoparthritis is characterized by joint edge degeneration."}
+{"id": "scifact-894#2", "title": "Osteoparthritis is characterized by subchondral bone hyperplasia."}
+{"id": "scifact-895#0", "title": "Over half of the gabonese children with Schimmelpenning-Feuerstein-Mims syndrome had a plasma lactate of more than 5mmol/L."}
+{"id": "scifact-895#1", "title": "Schimmelpenning-Feuerstein-Mims syndrome is also known as SFM."}
+{"id": "scifact-908#0", "title": "PGE 2 suppresses intestinal tumor growth."}
+{"id": "scifact-908#1", "title": "PGE 2 alters the expression of tumor suppressing genes."}
+{"id": "scifact-908#2", "title": "PGE 2 alters the expression of DNA repair genes."}
+{"id": "scifact-912#0", "title": "PKG-la plays an essential role in expression of spinal long term potentiation."}
+{"id": "scifact-912#1", "title": "PGK-la knockout mice express spinal long term potentiation."}
+{"id": "scifact-928#0", "title": "Patients with microcytosis and higher erythrocyte count are more vulnerable to severe malarial anaemia."}
+{"id": "scifact-928#1", "title": "These patients are infected with Plasmodium falciparum."}
+{"id": "scifact-933#0", "title": "Pediodal SCD patients with vaso-occlusive crisis show increased morphine use."}
+{"id": "scifact-933#1", "title": "The increased morphine use is due to breathing 80 ppm iNO for 4 hours."}
+{"id": "scifact-972#0", "title": "Primary cervical cancer screening with HPV detection has lower longitudinal sensitivity than conventional cytology."}
+{"id": "scifact-972#1", "title": "HPV detection can detect cervical intraepithelial neoplasia grade 2."}
+{"id": "scifact-980#0", "title": "Proprispinal interneurons play a role in the plastic reorganization of spinal circuits."}
+{"id": "scifact-980#1", "title": "Proprispinal interneurons are integral for recovery from spinal cord injury."}
+{"id": "scifact-984#0", "title": "Pseudogene PTENP1 encodes a transcript."}
+{"id": "scifact-984#1", "title": "The transcript regulates PTEN expression."}
+{"id": "scifact-989#0", "title": "Pure neural progenitor cell populations can only be obtained from cell cultures."}
+{"id": "scifact-989#1", "title": "Cell cultures that undergo passaging, filtration, or other isolation and cell sorting methods can produce pure neural progenitor cell populations."}
+{"id": "scifact-1001#0", "title": "R2D2 stops miRNA production."}
+{"id": "scifact-1001#1", "title": "R2D2 increases the selectivity of Dcr2 for long dsRNA."}
+{"id": "scifact-1026#0", "title": "Reduced phosphorylation of PP2A increases HDAC4 dephosphorylation."}
+{"id": "scifact-1026#1", "title": "PP2A-HDAC4 interaction is enhanced by reduced phosphorylation of PP2A."}
+{"id": "scifact-1028#0", "title": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with autoimmune diseases."}
+{"id": "scifact-1028#1", "title": "Type 1 Diabetes is an example of an autoimmune disease associated with reduced responsiveness to interleukin-2."}
+{"id": "scifact-1031#0", "title": "Reduction of Rpl38 alters the composition of the Hox gene mRNAs translation in mice."}
+{"id": "scifact-1031#1", "title": "The reduction of Rpl38 does not lower overall protein synthesis."}
+{"id": "scifact-1040#0", "title": "Replacement of histone H2A with H2A.Z accelerates gene activation in yeasts."}
+{"id": "scifact-1040#1", "title": "The acceleration of gene activation in yeasts is due to destabilizing +1 nucleosomes."}
+{"id": "scifact-1045#0", "title": "Rhythmic expression of Cry1 translates directly into a circadian regulation of cAMP signaling."}
+{"id": "scifact-1045#1", "title": "The circadian regulation of cAMP signaling occurs in hepatic glucose metabolism."}
+{"id": "scifact-1056#0", "title": "Rotator cuff exercises are more effective than general exercise therapy."}
+{"id": "scifact-1056#1", "title": "Rotator cuff exercises reduce pain."}
+{"id": "scifact-1056#2", "title": "Rotator cuff exercises improve function of the shoulder."}
+{"id": "scifact-1069#0", "title": "Scapular stabilizer exercises are more effective than general exercise therapy."}
+{"id": "scifact-1069#1", "title": "Scapular stabilizer exercises reduce pain."}
+{"id": "scifact-1069#2", "title": "Scapular stabilizer exercises improve function of the shoulder."}
+{"id": "scifact-1087#0", "title": "Sildenafil worsens erectile function in men."}
+{"id": "scifact-1087#1", "title": "Men experience sexual dysfunction as a result of the use of SSRI antidepressants."}
+{"id": "scifact-1090#0", "title": "Smc5/6 engagment halts the activation of SUMO E3 ligase Mms21."}
+{"id": "scifact-1090#1", "title": "ATP-dependent remolding halts the activation of SUMO E3 ligase Mms21."}
+{"id": "scifact-1098#0", "title": "Stacking is more stable when a purine is present in the +5 position."}
+{"id": "scifact-1098#1", "title": "The term for this stable stacking is C1698, which is a specific formula."}
+{"id": "scifact-1101#0", "title": "Stiff substrates encourage mesodermal differentiation."}
+{"id": "scifact-1101#1", "title": "Beta-catenin is degraded by stiff substrates in an integrin-dependent manner."}
+{"id": "scifact-1102#0", "title": "Stiff substrates inhibit mesodermal differentiation."}
+{"id": "scifact-1102#1", "title": "Beta-catenin is degraded by stiff substrates in an integrin-dependent manner."}
+{"id": "scifact-1103#0", "title": "Stroke patients with prior use of direct oral anticoagulants have a higher risk of in-hospital mortality."}
+{"id": "scifact-1103#1", "title": "Stroke patients with prior use of warfarin have a lower risk of in-hospital mortality."}
+{"id": "scifact-1112#0", "title": "Sudden death can occur in patients with orthostatic hypertension."}
+{"id": "scifact-1112#1", "title": "Orthostatic hypertension does not have cardiac conduction abnormalities."}
+{"id": "scifact-1114#0", "title": "Surfactin producing cells and exopolymer producing cells cooperate."}
+{"id": "scifact-1114#1", "title": "They generate 'Van Gogh' bundles."}
+{"id": "scifact-1114#2", "title": "Van Gogh bundles have sliding abilities on specialized media."}
+{"id": "scifact-1126#0", "title": "Systemic immunosuppressive therapy increases the chance of cancer mortality in patients with inflammatory eye disease."}
+{"id": "scifact-1126#1", "title": "Inflammatory eye disease is also known as IED."}
+{"id": "scifact-1153#0", "title": "The C-type lectin receptor (CLEC-2) rearranges the actin cytoskeleton in dendritic cells."}
+{"id": "scifact-1153#1", "title": "CLEC-2 promotes efficient motility along stromal surfaces."}
+{"id": "scifact-1161#0", "title": "The DEXI promoter region is bound by multiple transcription factors."}
+{"id": "scifact-1161#1", "title": "The DEXI promoter region is located in a murine haematopoietic progenitor cell line."}
+{"id": "scifact-1162#0", "title": "The DdrB protein is from Deinococcus radiodurans."}
+{"id": "scifact-1162#1", "title": "The DdrB protein functions as a pentamer."}
+{"id": "scifact-1169#0", "title": "The M2-phenotype is present in brown adipose tissue macrophages."}
+{"id": "scifact-1169#1", "title": "The M2-phenotype increases brown adipose tissue thermogenic activity."}
+{"id": "scifact-1170#0", "title": "The NF-B essential modulator gene induces intestinal inflammation."}
+{"id": "scifact-1170#1", "title": "The NF-B essential modulator gene promotes receptor-interacting protein (RIP) kinase 1 kinase activity."}
+{"id": "scifact-1170#2", "title": "The NF-B essential modulator gene mediates epithelial cell death."}
+{"id": "scifact-1171#0", "title": "The NF-B essential modulator gene prevents intestinal inflammation."}
+{"id": "scifact-1171#1", "title": "The NF-B essential modulator gene inhibits receptor-interacting protein (RIP) kinase 1 kinase activity."}
+{"id": "scifact-1171#2", "title": "The inhibition of RIP kinase activity results in epithelial cell death."}
+{"id": "scifact-1181#0", "title": "The RANK-RANK-Ligand pathway is involved in the development of Aire-expressing medullary thymic epithelial cells."}
+{"id": "scifact-1181#1", "title": "Aire-expressing medullary thymic epithelial cells are also known as mTECs."}
+{"id": "scifact-1182#0", "title": "The Snf1 complex regulates carbon and energy metabolism in baker's yeast."}
+{"id": "scifact-1182#1", "title": "Baker's yeast is also known as Saccharomyces cerevisiae."}
+{"id": "scifact-1184#0", "title": "The US health care system can save up to $5 billion."}
+{"id": "scifact-1184#1", "title": "7% of patients waiting for kidney transplants can participate in the optimized national kidney paired donation program."}
+{"id": "scifact-1186#0", "title": "The World Health Organization's data collection process is biased downward."}
+{"id": "scifact-1186#1", "title": "The bias is due to unequal selection of larger outbreaks."}
+{"id": "scifact-1193#0", "title": "The appearance of brown-like or beige cells primarily occurs in visceral fat."}
+{"id": "scifact-1193#1", "title": "Visceral fat is not subcutaneous fat."}
+{"id": "scifact-1195#0", "title": "The artifactual C-terminal helix swapping in the StART domain is observed in the Ups1-Mdm35 heterodimer."}
+{"id": "scifact-1195#1", "title": "The Ups1-Mdm35 heterodimer is part of the StARkin superfamily."}
+{"id": "scifact-1208#0", "title": "The cytokine receptor regulates chemotaxis and formation of lymph nodes."}
+{"id": "scifact-1208#1", "title": "The cytokine receptor is involved in production of myeloperoxidase in the left atrium."}
+{"id": "scifact-1209#0", "title": "The deamination of cytidine to uridine on the minus strand of viral DNA can inactivate the viral genome."}
+{"id": "scifact-1209#1", "title": "The inactivation of the viral genome is due to inducing G-to-A mutations."}
+{"id": "scifact-1218#0", "title": "The first MBT repeat of the four malignant brain tumor domain is required for the interaction with the spacer region of Drosophila's Pleiohomeotic (Pho) or its human ortholog YY1."}
+{"id": "scifact-1218#1", "title": "The first MBT repeat of the four malignant brain tumor domain is part of Drosophila's Sfmbt."}
+{"id": "scifact-1218#2", "title": "The first MBT repeat of the four malignant brain tumor domain is part of the orthologous mammalian L3MBTL2."}
+{"id": "scifact-1218#3", "title": "The interaction with the spacer region of Drosophila's Pleiohomeotic (Pho) or its human ortholog YY1 is required."}
+{"id": "scifact-1219#0", "title": "The gene daf-16 encodes forkhead Box O (FOXO)."}
+{"id": "scifact-1219#1", "title": "Daf-16 is required for all phenotypes associated with reduced insulin/insulin-like growth factor (Igf) signaling."}
+{"id": "scifact-1229#0", "title": "The microtubule-dependent delivery and secretion of matrix metalloproteases is partially responsible for the disassembly of adhesion sites."}
+{"id": "scifact-1229#1", "title": "Matrix metalloproteases are matrix metalloproteases."}
+{"id": "scifact-1263#0", "title": "The repeat-variable diresidue (RVD) is in the loop of Transcription-Activator Like (TAL) effectors."}
+{"id": "scifact-1263#1", "title": "The RVD specifies the nucleotides-amino acid contact at the target promoter element."}
+{"id": "scifact-1275#0", "title": "The tip of the inner tube of the toxic type VI secretion system (T6SS) antibacterial effector is decorated with VgrG and PAAR proteins."}
+{"id": "scifact-1275#1", "title": "The T6SS antibacterial effector is found in Escherichia coli (E. coli)."}
+{"id": "scifact-1311#0", "title": "Trans-acting factors influence mRNA translation."}
+{"id": "scifact-1311#1", "title": "LncRNAs are examples of trans-acting factors."}
+{"id": "scifact-1325#0", "title": "Treatment with the EC uptake inhibitor AM404 resulted in a dose-dependent decrease in the expression of immobility."}
+{"id": "scifact-1325#1", "title": "AM404 is an EC uptake inhibitor."}
+{"id": "scifact-1345#0", "title": "Up-regulation of the p53 pathway speeds cancer progression."}
+{"id": "scifact-1345#1", "title": "Up-regulation of related molecular events speeds cancer progression."}
+{"id": "scifact-1346#0", "title": "Upon developing tyrosine-kinase inhibitor resistance, new mutations in epidermal growth factor receptors emerge."}
+{"id": "scifact-1346#1", "title": "New mutations in epidermal growth factor receptors cause treatment failure."}
+{"id": "scifact-1347#0", "title": "Upon viral challenge, influenza-specific memory CD4+ T cells diminish the early production of inflammatory chemokines in the lung."}
+{"id": "scifact-1347#1", "title": "Influenza-specific memory CD4+ T cells are immune cells."}
+{"id": "scifact-1351#0", "title": "Upregulation of dynein occurs in Drosophila neurons."}
+{"id": "scifact-1351#1", "title": "Upregulation of dynein increases the number of microtubule plus-ends growing toward the cell body of each neuron."}
+{"id": "scifact-1355#0", "title": "V-9302 inhibits antitumor responses."}
+{"id": "scifact-1355#1", "title": "V-9302 decreases cell death and oxidative stress."}
+{"id": "scifact-1360#0", "title": "Varenicline monotherapy is more effective after 26 weeks of treatment."}
+{"id": "scifact-1360#1", "title": "Combination nicotine replacement therapies with varenicline or bupropion are less effective."}
+{"id": "scifact-1366#0", "title": "VgrG is a protein."}
+{"id": "scifact-1366#1", "title": "VgrG is also known as Tssl."}
+{"id": "scifact-1366#2", "title": "VgrG punctures membranes."}
+{"id": "scifact-1366#3", "title": "VgrG forms a spike at the tip of the tube apparatus."}
+{"id": "scifact-1374#0", "title": "Weighed food records result in high completion."}
+{"id": "scifact-1374#1", "title": "Weighed food records are cheap to run."}
+{"id": "scifact-1374#2", "title": "Weighed food records impose low participant burden."}
+{"id": "scifact-1375#0", "title": "Weighed food records result in poor completion."}
+{"id": "scifact-1375#1", "title": "Weighed food records are costly to run."}
+{"id": "scifact-1375#2", "title": "Weighed food records impose a high participant burden."}
+{"id": "scifact-1383#0", "title": "aPKCz causes tumour suppression."}
+{"id": "scifact-1383#1", "title": "aPKCz affects glutamine metabolism."}
+{"id": "scifact-1393#0", "title": "MiRNAs enforce homeostasis."}
+{"id": "scifact-1393#1", "title": "MiRNAs suppress low-level 'leaky'' transcription."}
+{"id": "scifact-1394#0", "title": "MiRNAs regulate a unique suite of mRNAs."}
+{"id": "scifact-1394#1", "title": "MiRNAs maintain homeostasis in cells."}
+{"id": "scifact-1397#0", "title": "p16INK4A degradation is linked to an abnormal wound response."}
+{"id": "scifact-1397#1", "title": "The abnormal wound response is caused by the microinvasive step of advanced Oral Potentially Malignant Lesions (OPMLs)."}
+{"id": "scifact-1405#0", "title": "taa1 tar1 tar2 triple mutants are found in Arabidopsis."}
+{"id": "scifact-1405#1", "title": "The mutants do not make root meristem during embryogenesis."}
+{"id": "scifact-3#0", "title": "1,000 genomes project enables mapping of genetic sequence variation."}
+{"id": "scifact-3#1", "title": "The genetic sequence variation consists of rare variants."}
+{"id": "scifact-3#2", "title": "Rare variants have larger penetrance effects than common variants."}
+{"id": "scifact-49#0", "title": "ADAR1 binds to Dicer."}
+{"id": "scifact-49#1", "title": "Dicer cleaves pre-miRNA."}
+{"id": "scifact-56#0", "title": "APOE4 expression is present in iPSC-derived neurons."}
+{"id": "scifact-56#1", "title": "APOE4 expression increases AlphaBeta production."}
+{"id": "scifact-56#2", "title": "APOE4 expression increases tau phosphorylation."}
+{"id": "scifact-56#3", "title": "APOE4 expression causes GABA neuron degeneration."}
+{"id": "scifact-57#0", "title": "APOE4 expression is present in iPSC-derived neurons."}
+{"id": "scifact-57#1", "title": "APOE4 expression increases AlphaBeta production."}
+{"id": "scifact-57#2", "title": "APOE4 expression increases tau phosphorylation."}
+{"id": "scifact-57#3", "title": "APOE4 expression delays GABA neuron degeneration."}
+{"id": "scifact-75#0", "title": "Active H. pylori urease has a polymeric structure."}
+{"id": "scifact-75#1", "title": "The polymeric structure of H. pylori urease compromises two subunits."}
+{"id": "scifact-75#2", "title": "The two subunits of H. pylori urease are UreA and UreB."}
+{"id": "scifact-124#0", "title": "Antiretroviral therapy reduces rates of tuberculosis."}
+{"id": "scifact-124#1", "title": "Antiretroviral therapy is used across a broad range of CD4 strata."}
+{"id": "scifact-127#0", "title": "Arginine 90 is present in p150n."}
+{"id": "scifact-127#1", "title": "Arginine 90 is important for interaction with EB1."}
+{"id": "scifact-133#0", "title": "Assembly of invadopodia is triggered by focal generation of phosphatidylinositol-3,4-biphosphate."}
+{"id": "scifact-133#1", "title": "The activation of the nonreceptor tyrosine kinase Src is also a trigger for invadopodia assembly."}
+{"id": "scifact-142#0", "title": "Autologous transplantation of mesenchymal stem cells causes a higher rate of opportunistic infections."}
+{"id": "scifact-142#1", "title": "Induction therapy with anti-interleukin-2 receptor antibodies causes a lower rate of opportunistic infections."}
+{"id": "scifact-216#0", "title": "CX3CR1 is present on Th2 cells."}
+{"id": "scifact-216#1", "title": "CX3CR1 impairs T cell survival."}
+{"id": "scifact-217#0", "title": "CX3CR1 is present on Th2 cells."}
+{"id": "scifact-217#1", "title": "CX3CR1 promotes T cell survival."}
+{"id": "scifact-218#0", "title": "CX3CR1 is present on Th2 cells."}
+{"id": "scifact-218#1", "title": "CX3CR1 promotes airway inflammation."}
+{"id": "scifact-219#0", "title": "CX3CR1 is present on Th2 cells."}
+{"id": "scifact-219#1", "title": "CX3CR1 suppresses airway inflammation."}
+{"id": "scifact-261#0", "title": "Chronic aerobic exercise alters endothelial function."}
+{"id": "scifact-261#1", "title": "Chronic aerobic exercise improves vasodilating mechanisms mediated by NO."}
+{"id": "scifact-274#0", "title": "Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks."}
+{"id": "scifact-274#1", "title": "Varenicline monotherapy has a lower long-term abstinence rate at 52 weeks."}
+{"id": "scifact-295#0", "title": "Crosstalk between dendritic cells and innate lymphoid cells is important in the regulation of intestinal homeostasis."}
+{"id": "scifact-295#1", "title": "Dendritic cells are innate lymphoid cells."}
+{"id": "scifact-298#0", "title": "Cytochrome c is released from the mitochondrial intermembrane space."}
+{"id": "scifact-298#1", "title": "Cytochrome c is released to cytosol during apoptosis."}
+{"id": "scifact-300#0", "title": "Cytosolic proteins bind to iron-responsive elements on mRNAs coding for DMT1."}
+{"id": "scifact-300#1", "title": "Cytosolic proteins bind to iron-responsive elements on mRNAs coding for proteins involved in iron uptake."}
+{"id": "scifact-303#0", "title": "DMRT1 is a sex-determining gene."}
+{"id": "scifact-303#1", "title": "DMRT1 is epigenetically regulated by the MHM region."}
+{"id": "scifact-362#0", "title": "During the primary early antibody response, activated B cells migrate toward the inner-and outer paracortical areas."}
+{"id": "scifact-362#1", "title": "Oxysterol accumulation is generated by stromal cells in the inner-and outer paracortical areas."}
+{"id": "scifact-385#0", "title": "Epigenetic modulating agents (EMAs) modulate antitumor immune response."}
+{"id": "scifact-385#1", "title": "The modulation occurs in a cancer model system."}
+{"id": "scifact-415#0", "title": "Female carriers of the Apolipoprotein E4 allele have increased risk for dementia."}
+{"id": "scifact-415#1", "title": "The Apolipoprotein E4 allele is also known as APOE4."}
+{"id": "scifact-436#0", "title": "Free histones are degraded by a Rad53-dependent mechanism."}
+{"id": "scifact-436#1", "title": "The degradation of free histones occurs once DNA has been replicated."}
+{"id": "scifact-437#0", "title": "Functional consequences of genomic alterations due to Myelodysplastic syndrome (MDS) are poorly understood."}
+{"id": "scifact-437#1", "title": "The lack of an animal model contributes to the poor understanding of functional consequences of genomic alterations due to MDS."}
+{"id": "scifact-478#0", "title": "Golli-deficient T-cells prefer to differentiate into an anergic phenotype in the adaptive immune response."}
+{"id": "scifact-478#1", "title": "There are increased levels of Ca2+ in the cytosol when golli-deficient T-cells differentiate into an anergic phenotype."}
+{"id": "scifact-491#0", "title": "HNF4A mutations can cause diabetes in mutant carriers."}
+{"id": "scifact-491#1", "title": "Diabetes can be caused by the age of 14 years in mutant carriers."}
+{"id": "scifact-507#0", "title": "Helminths interfere with immune system control of macrophages."}
+{"id": "scifact-507#1", "title": "Macrophages are activated by IL-4."}
+{"id": "scifact-507#2", "title": "Helminths favor Mycobacterium tuberculosis replication."}
+{"id": "scifact-514#0", "title": "High dietary calcium intakes are unnecessary for prevention of secondary hyperparathyroidism."}
+{"id": "scifact-514#1", "title": "Support of secondary hyperparathyroidism is in subjects with 25(OH)D levels above 75 nmol/liter."}
+{"id": "scifact-525#0", "title": "Histone demethylase recruitment is necessary for ligand-dependent induction of transcription by nuclear receptors."}
+{"id": "scifact-525#1", "title": "A transient decrease in histone methylation is necessary for ligand-dependent induction of transcription by nuclear receptors."}
+{"id": "scifact-527#0", "title": "Homozygous deletion of murine Sbds gene occurs from osterix-expressing mesenchymal stem and progenitor cells (MPCs)."}
+{"id": "scifact-527#1", "title": "Homozygous deletion of murine Sbds gene prevents oxidative stress."}
+{"id": "scifact-528#0", "title": "Human T-lymphotropic virus type-I-associated myelopathy and tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies."}
+{"id": "scifact-528#1", "title": "IgG antibodies cross-react with an immunodominant epitope in Tax."}
+{"id": "scifact-544#0", "title": "IFIT1 restricts viral replication."}
+{"id": "scifact-544#1", "title": "IFIT1 sequesters mis-capped viral RNAs."}
+{"id": "scifact-552#0", "title": "IgA plasma cells are specific for transglutaminase 2."}
+{"id": "scifact-552#1", "title": "IgA plasma cells accumulate in the duodenal mucosa on commencement of a gluten-free diet."}
+{"id": "scifact-560#0", "title": "Immune responses result in the development of inflammatory Th17 cells."}
+{"id": "scifact-560#1", "title": "Immune responses result in the development of anti-inflammatory iTregs."}
+{"id": "scifact-577#0", "title": "In mice, P. chabaudi parasites can proliferate faster early in infection when inoculated at lower numbers."}
+{"id": "scifact-577#1", "title": "P. chabaudi parasites can not proliferate faster early in infection when inoculated at high numbers."}
+{"id": "scifact-587#0", "title": "In transgenic mice, green florescent protein is harbored under the control of the Sox2 promoter."}
+{"id": "scifact-587#1", "title": "Less than ten percent of the cells with green florescent colocalize with cell proliferation markers."}
+{"id": "scifact-598#0", "title": "Incidence rates of cervical cancer have increased."}
+{"id": "scifact-598#1", "title": "The increase in cervical cancer incidence is due to nationwide screening programs."}
+{"id": "scifact-598#2", "title": "National screening programs are based primarily on cytology."}
+{"id": "scifact-598#3", "title": "Cytology is used to detect uterine cervical cancer."}
+{"id": "scifact-619#0", "title": "Increased vessel density decreases the efficacy of chemotherapy treatments."}
+{"id": "scifact-619#1", "title": "A reduction in fibrosis decreases the efficacy of chemotherapy treatments."}
+{"id": "scifact-690#0", "title": "Less than 10% of gabonese children with Schimmelpenning-Feuerstein-Mims syndrome (SFM) had a plasma lactate of more than 5mmol/L."}
+{"id": "scifact-690#1", "title": "Schimmelpenning-Feuerstein-Mims syndrome is also known as SFM."}
+{"id": "scifact-691#0", "title": "Leukemia associated Rho guanine nucleotide-exchange factor represses RhoA."}
+{"id": "scifact-691#1", "title": "RhoA repression is in response to SRC activation."}
+{"id": "scifact-715#0", "title": "Low expression of miR7a represses target genes."}
+{"id": "scifact-715#1", "title": "MiR7a exerts a biological function in ovaries."}
+{"id": "scifact-721#0", "title": "Lupus-prone mice are infected with curliproducing bacteria."}
+{"id": "scifact-721#1", "title": "Lupus-prone mice have higher autoantibody titers compared to controls."}
+{"id": "scifact-723#0", "title": "Ly49Q directs the organization of neutrophil migration to inflammation sites."}
+{"id": "scifact-723#1", "title": "Ly49Q regulates membrane raft functions."}
+{"id": "scifact-744#0", "title": "Macropinocytosis contributes to a cell's supply of amino acids."}
+{"id": "scifact-744#1", "title": "Macropinocytosis occurs via the intracellular uptake of protein."}
+{"id": "scifact-756#0", "title": "Many proteins in human cells can be post-translationally modified at lysine residues."}
+{"id": "scifact-756#1", "title": "The modification of proteins at lysine residues is via acetylation."}
+{"id": "scifact-768#0", "title": "Mercaptopurine is anabolized into the inactive methylmercaptopurine."}
+{"id": "scifact-768#1", "title": "The anabolization of mercaptopurine is done by thiopurine methyltrasnferase (TPMT)."}
+{"id": "scifact-770#0", "title": "Metastasic colorectal cancer was treated with a single agent fluoropyrimidines."}
+{"id": "scifact-770#1", "title": "Fluoropyrimidines resulted in reduced efficacy and lower quality of life in elderly patients."}
+{"id": "scifact-770#2", "title": "Oxaliplatin-based chemotherapy was used in elderly patients."}
+{"id": "scifact-784#0", "title": "MicroRNA is involved in the regulation of Neural Stem Cell differentiation and proliferation."}
+{"id": "scifact-784#1", "title": "MicroRNA is involved in the regulation of dynamic homeostasis."}
+{"id": "scifact-800#0", "title": "Modifying the epigenome in the brain affects the normal human aging process."}
+{"id": "scifact-800#1", "title": "The modification affects certain genes related to neurogenesis."}
+{"id": "scifact-814#0", "title": "Mutations in G-Beta protein GNB2 are present in many cancers."}
+{"id": "scifact-814#1", "title": "Mutations in G-Beta protein GNB2 result in loss of interaction with G-alpha subunits."}
+{"id": "scifact-814#2", "title": "Mutations in G-Beta protein GNB2 result in concomitant activation of AKT pathway."}
+{"id": "scifact-830#0", "title": "NF2 is also known as Merlin."}
+{"id": "scifact-830#1", "title": "NF2 causes phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila."}
+{"id": "scifact-830#2", "title": "NF2 activates LATS1/2 kinases."}
+{"id": "scifact-831#0", "title": "NF2 is also known as Merlin."}
+{"id": "scifact-831#1", "title": "NF2 prevents phosphorylation and subsequent cytoplasmic sequestration of YAP in Drosophila."}
+{"id": "scifact-834#0", "title": "NOX2-independent pathways can generate peroxynitrite."}
+{"id": "scifact-834#1", "title": "Peroxynitrite is generated by reacting with nitrogen intermediates."}
+{"id": "scifact-839#0", "title": "Nanoparticles can be targeted against specific cell types."}
+{"id": "scifact-839#1", "title": "Aptamers can be incorporated into lipid nanoparticles."}
+{"id": "scifact-904#0", "title": "PDPN promotes efficient motility along stromal surfaces."}
+{"id": "scifact-904#1", "title": "PDPN activates the C-type lectin receptor."}
+{"id": "scifact-904#2", "title": "The activation of the C-type lectin receptor rearranges the actin cytoskeleton in dendritic cells."}
+{"id": "scifact-907#0", "title": "PGE 2 promotes intestinal tumor growth."}
+{"id": "scifact-907#1", "title": "PGE 2 alters the expression of tumor suppressing genes."}
+{"id": "scifact-907#2", "title": "PGE 2 alters the expression of DNA repair genes."}
+{"id": "scifact-957#0", "title": "Podocytes are motile."}
+{"id": "scifact-957#1", "title": "Podocytes migrate in the presence of injury."}
+{"id": "scifact-971#0", "title": "Primary cervical cancer screening with HPV detection has higher longitudinal sensitivity than conventional cytology."}
+{"id": "scifact-971#1", "title": "HPV detection can detect cervical intraepithelial neoplasia grade 2."}
+{"id": "scifact-985#0", "title": "Pseudogene PTENP1 regulates the expression of PTEN."}
+{"id": "scifact-985#1", "title": "PTENP1 functions as an miRNA decoy."}
+{"id": "scifact-1020#0", "title": "Rapid up-regulation and higher basal expression of interferon-induced genes increase survival of granule cell neurons."}
+{"id": "scifact-1020#1", "title": "Granule cell neurons are infected by West Nile virus."}
+{"id": "scifact-1021#0", "title": "Rapid up-regulation and higher basal expression of interferon-induced genes reduce survival of granule cell neurons."}
+{"id": "scifact-1021#1", "title": "Granule cell neurons are infected by West Nile virus."}
+{"id": "scifact-1029#0", "title": "Reduced responsiveness to interleukin-2 in regulatory T cells is associated with greater resistance to autoimmune diseases."}
+{"id": "scifact-1029#1", "title": "Type 1 Diabetes is an example of an autoimmune disease with greater resistance to interleukin-2."}
+{"id": "scifact-1041#0", "title": "Replacement of histone H2A with H2A.Z slows gene activation in yeasts."}
+{"id": "scifact-1041#1", "title": "H2A.Z stabilizes +1 nucleosomes."}
+{"id": "scifact-1086#0", "title": "Sildenafil improves erectile function in men."}
+{"id": "scifact-1086#1", "title": "Men experience sexual dysfunction as a result of the use of SSRI antidepressants."}
+{"id": "scifact-1089#0", "title": "Smc5/6 engagment drives the activation of SUMO E3 ligase Mms21."}
+{"id": "scifact-1089#1", "title": "ATP-dependent remolding drives the activation of Mms21."}
+{"id": "scifact-1104#0", "title": "Stroke patients with prior use of direct oral anticoagulants have a lower risk of in-hospital mortality."}
+{"id": "scifact-1104#1", "title": "Stroke patients with prior use of warfarin have a higher risk of in-hospital mortality."}
+{"id": "scifact-1121#0", "title": "Synaptic activity enhances local release of brain derived neurotrophic factor."}
+{"id": "scifact-1121#1", "title": "The neurotrophic factor is released from postsynaptic dendrites."}
+{"id": "scifact-1130#0", "title": "T regulatory cells lack v8."}
+{"id": "scifact-1130#1", "title": "T regulatory cells lacking v8 are more adept at suppressing pathogenic T-cell responses during active inflammation."}
+{"id": "scifact-1132#0", "title": "TCR/CD3 microdomains are required to induce the immunologic synapse."}
+{"id": "scifact-1132#1", "title": "Inducing the immunologic synapse activates T cells."}
+{"id": "scifact-1163#0", "title": "The DdrB protein is from Deinococcus radiodurans."}
+{"id": "scifact-1163#1", "title": "Denococcus radiodurans is an alternative SSB."}
+{"id": "scifact-1185#0", "title": "The US health care system can save up to $750 million."}
+{"id": "scifact-1185#1", "title": "7% of patients waiting for kidney transplants can participate in the optimized national kidney paired donation program."}
+{"id": "scifact-1187#0", "title": "The YAP1 and TEAD complex tanslocates into the nucleus."}
+{"id": "scifact-1187#1", "title": "The YAP1 and TEAD complex interacts with transcription factors and DNA-binding proteins."}
+{"id": "scifact-1187#2", "title": "The interaction between the YAP1 and TEAD complex and transcription factors and DNA-binding proteins modulates target gene transcription."}
+{"id": "scifact-1194#0", "title": "The arm density of TatAd complexes is due to structural rearrangements within Class1 TatAd complexes."}
+{"id": "scifact-1194#1", "title": "The charge zipper mechanism is an example of structural rearrangements within Class1 TatAd complexes."}
+{"id": "scifact-1199#0", "title": "The benefits of colchicine were achieved with effective widespread use of secondary prevention strategies."}
+{"id": "scifact-1199#1", "title": "High-dose statins were used as secondary prevention strategies."}
+{"id": "scifact-1226#0", "title": "The loss of the TET protein functions may have dire biological consequences."}
+{"id": "scifact-1226#1", "title": "Myeloid cancers may be a consequence of the loss of TET protein functions."}
+{"id": "scifact-1266#0", "title": "The risk of breast cancer among parous women increases with placental weight of pregnancies."}
+{"id": "scifact-1266#1", "title": "The association between placental weight and breast cancer risk is strongest for premenopausal breast cancer."}
+{"id": "scifact-1274#0", "title": "The tip of the inner tube of the toxic type VI secretion system (T6SS) antibacterial effector in Escherichia coli carries toxic effector proteins."}
+{"id": "scifact-1274#1", "title": "Escherichia coli is a type of bacteria."}
+{"id": "scifact-1280#0", "title": "The ureABIEFGH gene cluster encodes urease maturation proteins."}
+{"id": "scifact-1280#1", "title": "The urease maturation proteins encode UreD/UreH, UreE, UreF, and UreG."}
+{"id": "scifact-1298#0", "title": "Thigh-length graduated compression stockings (GCS) did not reduce deep vein thrombosis in patients admitted to hospital."}
+{"id": "scifact-1298#1", "title": "Patients admitted to hospital were immobile because of acute stroke."}
+{"id": "scifact-1332#0", "title": "Tumor necrosis factor alpha (TNF-) and interleukin-1 (IL-1) are pro-inflammatory cytokines."}
+{"id": "scifact-1332#1", "title": "TNF- inhibits IL-6."}
+{"id": "scifact-1332#2", "title": "IL-1 inhibits IL-10."}
+{"id": "scifact-1337#0", "title": "Ubiquitin ligase UBC13 generates a K63-linked polyubiquitin moiety."}
+{"id": "scifact-1337#1", "title": "The polyubiquitin moiety is located at PCNA K164."}
+{"id": "scifact-1344#0", "title": "Up-regulation of the p53 pathway and related molecular events causes cancer resistance."}
+{"id": "scifact-1344#1", "title": "Up-regulation of the p53 pathway and related molecular events results in a significantly shortened lifespan."}
+{"id": "scifact-1344#2", "title": "Senescent cells are present in the shortened lifespan."}
+{"id": "scifact-1344#3", "title": "Accelerated organismal aging is a result of up-regulation of the p53 pathway and related molecular events."}
+{"id": "scifact-1359#0", "title": "Varenicline monotherapy is more effective after 12 weeks of treatment."}
+{"id": "scifact-1359#1", "title": "Combination nicotine replacement therapies with varenicline or bupropion are less effective."}
+{"id": "scifact-1382#0", "title": "aPKCz causes tumour enhancement."}
+{"id": "scifact-1382#1", "title": "aPKCz affects glutamine metabolism."}
+{"id": "scifact-1389#0", "title": "mTORC2 regulates intracellular cysteine levels."}
+{"id": "scifact-1389#1", "title": "xCT inhibition is used to regulate intracellular cysteine levels."}
+{"id": "scifact-1395#0", "title": "p16INK4A accumulation is linked to an abnormal wound response."}
+{"id": "scifact-1395#1", "title": "The abnormal wound response is caused by the microinvasive step of advanced Oral Potentially Malignant Lesions (OPMLs)."}

@@ -1,0 +1,93 @@
+import sys
+
+# doc encoding
+from pyserini.encode import JsonlRepresentationWriter, FaissRepresentationWriter, JsonlCollectionIterator
+from pyserini.encode import DprDocumentEncoder, TctColBertDocumentEncoder, AnceDocumentEncoder, AutoDocumentEncoder
+from pyserini.encode import UniCoilDocumentEncoder
+
+# query encoding
+from pyserini.search import FaissSearcher, BinaryDenseSearcher, TctColBertQueryEncoder, QueryEncoder, \
+    DprQueryEncoder, BprQueryEncoder, DkrrDprQueryEncoder, AnceQueryEncoder, AutoQueryEncoder, DenseVectorAveragePrf, \
+    DenseVectorRocchioPrf, DenseVectorAncePrf
+
+from pyserini.encode import SentenceTransformerQueryEncoder, SentenceTransformerDocumentEncoder
+from pyserini.encode import PcaEncoder
+
+
+encoder_class_map = {
+    "dpr": DprDocumentEncoder,
+    "tct_colbert": TctColBertDocumentEncoder,
+    "ance": AnceDocumentEncoder,
+    # "sentence-transformers": AutoDocumentEncoder,
+    "sentence-transformers": SentenceTransformerDocumentEncoder,
+    "unicoil": UniCoilDocumentEncoder,
+    "auto": AutoDocumentEncoder,
+}
+
+def init_document_encoder(encoder, encoder_class, device):
+    _encoder_class = encoder_class
+
+    # determine encoder_class
+    if encoder_class is not None:
+        encoder_class = encoder_class_map[encoder_class]
+    else:
+        # if any class keyword was matched in the given encoder name,
+        # use that encoder class
+        for class_keyword in encoder_class_map:
+            if class_keyword in encoder.lower():
+                encoder_class = encoder_class_map[class_keyword]
+                break
+
+        # if none of the class keyword was matched,
+        # use the AutoDocumentEncoder
+        if encoder_class is None:
+            encoder_class = AutoDocumentEncoder
+
+    # prepare arguments to encoder class
+    kwargs = dict(model_name=encoder, device=device)
+    # if (_encoder_class == "sentence-transformers") or ("sentence-transformers" in encoder):
+    #     kwargs.update(dict(pooling='mean', l2_norm=True))
+    if (_encoder_class == "contriever") or ("contriever" in encoder):
+        kwargs.update(dict(pooling='mean', l2_norm=False))
+    return encoder_class(**kwargs)
+
+
+def init_query_encoder(encoder, encoder_class, device):
+    encoder_class_map = {
+        "dkrr": DkrrDprQueryEncoder,
+        "dpr": DprQueryEncoder,
+        "bpr": BprQueryEncoder,
+        "tct_colbert": TctColBertQueryEncoder,
+        "ance": AnceQueryEncoder,
+        "sentence": SentenceTransformerQueryEncoder,
+        "contriever": AutoQueryEncoder,
+        "auto": AutoQueryEncoder,
+    }
+
+    if encoder:
+        _encoder_class = encoder_class
+
+        # determine encoder_class
+        if encoder_class is not None:
+            encoder_class = encoder_class_map[encoder_class]
+        else:
+            # if any class keyword was matched in the given encoder name,
+            # use that encoder class
+            for class_keyword in encoder_class_map:
+                if class_keyword in encoder.lower():
+                    encoder_class = encoder_class_map[class_keyword]
+                    break
+
+            # if none of the class keyword was matched,
+            # use the AutoQueryEncoder
+            if encoder_class is None:
+                encoder_class = AutoQueryEncoder
+
+        # prepare arguments to encoder class
+        kwargs = dict(encoder_dir=encoder, tokenizer_name=None, device=device, prefix=None)
+        if (_encoder_class == "sentence") or ("sentence" in encoder):
+            kwargs = dict(model_name=encoder, tokenizer_name=None, device=device, prefix=None)
+            # kwargs.update(dict(pooling='mean', l2_norm=True))
+        if (_encoder_class == "contriever") or ("contriever" in encoder):
+            kwargs.update(dict(pooling='mean', l2_norm=False))
+        return encoder_class(**kwargs)
