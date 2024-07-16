@@ -93,3 +93,14 @@ This repository contains experimental software intended to provide supplementary
 The software in this repocitory is licensed under the Apache License, Version 2.0. See [LICENSE](LICENCE) for the full license text.
 
 <h2 id="citing">Citing</h2>
+
+```
+@misc{cai2024textttmixgr,
+    title={$\texttt{MixGR}$: Enhancing Retriever Generalization for Scientific Domain through Complementary Granularity},
+    author={Fengyu Cai and Xinran Zhao and Tong Chen and Sihao Chen and Hongming Zhang and Iryna Gurevych and Heinz Koeppl},
+    year={2024},
+    eprint={2407.10691},
+    archivePrefix={arXiv},
+    primaryClass={cs.IR}
+}
+```
