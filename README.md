@@ -2,7 +2,7 @@
 
 <h4 align="center">
     <p>
-        <a href="#paper">📑 Paper</a> |
+        <a href="https://arxiv.org/abs/2407.10691">📑 Paper</a> |
         <a href="#installation">🔧 Installation</a> |
         <a href="#resources">📚 Resources</a> |
         <a href="#usage">🚀 Usage</a> |
